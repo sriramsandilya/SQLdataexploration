@@ -1,6 +1,6 @@
 🚀 **Data Analytics Project: SQL Exploration Skills Enhancement**
 
-Welcome to my data analytics journey! Inspired by the insightful tutorials of Sir [@alextheanalyst](https://www.youtube.com/user/alextheanalyst), I embarked on a project to elevate my SQL exploration skills. This repository encapsulates the hands-on experience gained through practical application of concepts discussed by Alex the Analyst.
+This repository encapsulates the hands-on experience gained through practical application of concepts discussed by Alex the Analyst.
 
 **About the Project:**
 In this endeavor, I delved into the world of analytics trends, leveraging tutorials from a seasoned expert in the field. The primary goal was to fortify my SQL proficiency and hone the analytical mindset required for a successful career in data analytics.
